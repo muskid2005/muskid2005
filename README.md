@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Mustapha
 
-Fullstack Developer & Graphic Designer dedicated to building scalable, problem sollving applications that blend clean code with strong visual design.
+Fullstack, Mobile Developer & Graphic Designer dedicated to building scalable, problem solving applications that blend clean code with strong visual design.
 <hr>
 
 ## 👤 about me
@@ -25,6 +25,11 @@ Fullstack Developer & Graphic Designer dedicated to building scalable, problem s
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+#### <Mobile Development>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 #### &lt;Backend Development&gt;
   
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -34,6 +39,7 @@ Fullstack Developer & Graphic Designer dedicated to building scalable, problem s
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### &lt;Package Manager&gt;
   
@@ -42,6 +48,11 @@ Fullstack Developer & Graphic Designer dedicated to building scalable, problem s
 #### &lt;Build Tools&gt;
   
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+#### <Tools>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <hr>
 
 🌐 connect with me
